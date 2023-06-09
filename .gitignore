@@ -1,0 +1,14 @@
+.idea/
+__pycache__/
+.vscode/
+*code-workspace
+server.py
+*.log
+#*.txt
+#*.cfg
+#*.qur
+*.json
+*jpg
+*output/
+data/
+
